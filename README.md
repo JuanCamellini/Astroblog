@@ -19,4 +19,6 @@ Posee un buscador de posteos, el mismo se encuentra en el home y lo hace de form
 
 
 VIDEO DE LAS FUNCIONALIDADES DEL BLOG: https://drive.google.com/file/d/1xV9QN-4HHTG51v_IoRjP0To2QX78qKPY/view?usp=sharing
->>>>>>> c6bf193 (first commit)
+
+
+LINK: https://astroblog-proyecto.herokuapp.com/
